@@ -1,6 +1,6 @@
 <?php 
 
-class Style {
+class Style{
   private $className;
   private $style;
 
@@ -44,5 +44,3 @@ class Style {
     return $query;
   }
 }
-
-?>
