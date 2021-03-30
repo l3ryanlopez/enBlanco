@@ -43,9 +43,9 @@ class Tag
 
   // CONSTRUIR PIEZA
   public function construirPieza(){
-    $tag = $this->obtenerTag;
-    $cName = $this->obtenerClassName;
-    $contenido = $this->obtenerContent;
+    $tag = $this->obtenerTag();
+    $cName = $this->obtenerClassName();
+    $contenido = $this->obtenerContent();
 
     switch ($tag) {
       case "<div>":
