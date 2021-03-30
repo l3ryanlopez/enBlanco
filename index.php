@@ -2,9 +2,11 @@
 <html lang="es">
 
 <head>
-  <?php   ?>
+  <?php  require ('proveedorHTML/meta.html'); ?>
   <style>
-    <?php   ?>
+    <?php   
+    
+    ?>
   </style>
 </head>
 
