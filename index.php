@@ -6,12 +6,15 @@
   <style>
     <?php   
       require ('proveedorCSS/body.php');
+      require ('proveedorCSS/header.php');
     ?>
   </style>
 </head>
 
 <body>
-  <?php   ?>
+  <?php  
+    require ('proveedorHTML/header.php');
+  ?>
 </body>
 
 </html>
