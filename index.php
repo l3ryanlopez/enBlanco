@@ -7,6 +7,7 @@
     <?php   
       require ('proveedorCSS/body.php');
       require ('proveedorCSS/header.php');
+      require ('proveedorCSS/flip-card.php');
     ?>
   </style>
 </head>
